@@ -1,4 +1,4 @@
-Hey! Sou o Matheus de Figueiredo.
+Olá! Sou o Matheus de Figueiredo.
 ---
 
 Estudante de Ciência da Computação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br) 🇧🇷  <span> </span>.
