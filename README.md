@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey! Sou o Matheus de Figueiredo.
+---
 
-<!--
-**matheusmrf/matheusmrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br) 🇧🇷  <span> </span>.
 
-Here are some ideas to get you started:
+## 💡 O que estou fazendo agora
+Estou aprendendo e melhorando minhas habilidades em desenvolvimento e design web. Atualmente, foco em:
+- JAVA
+- Computação web
+- Fundamentos de Web Design
+- Tornar meu código mais limpo, legível e adaptado à Acessibilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Aberto para oportunidades
+👋🏾 Estou procurando oportunidades de emprego, bem como qualquer oportunidade de aprofundar meus conhecimentos e trabalhar de forma colaborativa em projetos. Se você quiser que eu faça parte de sua equipe, sinta-se à vontade para [entrar em contato](mailto:matheus.figueiredo.1275135@sga.pucminas.br)!
