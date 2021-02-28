@@ -12,3 +12,6 @@ Estou aprendendo e melhorando minhas habilidades em desenvolvimento e design web
 
 ## 🚀 Aberto para oportunidades
 👋🏾 Estou procurando oportunidades de emprego, bem como qualquer oportunidade de aprofundar meus conhecimentos e trabalhar de forma colaborativa em projetos. Se você quiser que eu faça parte de sua equipe, sinta-se à vontade para [entrar em contato](mailto:matheus.figueiredo.1275135@sga.pucminas.br)!
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmrf)](https://github.com/matheusmrf/github-readme-stats)
