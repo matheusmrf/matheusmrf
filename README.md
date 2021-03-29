@@ -4,6 +4,9 @@ Olá! Sou o Matheus de Figueiredo.
 Estudante de Ciência da Computação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br) 🇧🇷  <span> </span>.
 
 ## 💡 O que estou fazendo agora
+
+Atualmente estou dando monitoria da disciplina de Desenvolvimento de Interfaces Web na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br).
+
 Estou aprendendo e melhorando minhas habilidades em desenvolvimento e design web. Atualmente, foco em:
 - JAVA
 - Computação web
