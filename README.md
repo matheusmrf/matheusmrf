@@ -9,6 +9,7 @@ Atualmente estou dando monitoria da disciplina de Desenvolvimento de Interfaces 
 
 Estou aprendendo e melhorando minhas habilidades em desenvolvimento e design web. Atualmente, foco em:
 - JAVA
+- Javascript
 - Computação web
 - Fundamentos de Web Design
 - Tornar meu código mais limpo, legível e adaptado à Acessibilidade.
